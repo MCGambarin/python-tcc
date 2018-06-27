@@ -10,6 +10,7 @@ matplotlib = "*"
 numpy = "*"
 pandas = "*"
 sklearn = "*"
+scipy = "*"
 
 [dev-packages]
 
